@@ -11,10 +11,12 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 
 ### 📋 Pré-requisitos
 
+Certifique-se de ter o Dart SDK instalado em seu sistema. Você pode baixá-lo em [dart.dev](https://dart.dev/get-dart).
+
 De que coisas você precisa para instalar o software e como instalá-lo?
 
 ```
-Dar exemplos
+Dar exemplos https://dart.dev/get-dart
 ```
 
 ### 🔧 Instalação
