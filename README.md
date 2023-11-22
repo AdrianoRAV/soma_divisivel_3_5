@@ -37,9 +37,9 @@ Execute o aplicativo Dart a partir da linha de comando.
 
 soma_divisivel_3_5.dart
 
-### ⌨️ E testes de estilo de codificação
+### ⌨️ Testes para codificação
 
-Digite um inteiro positivo e  retornara o resultado do somatório dos números inferiores divisiveis por 3 ou 5 .
+Digite um inteiro positivo e  retornara o resultado do somatório dos números inferiores divisiveis por 3 ou 5.
 
 ```
 exemplo 13 retorna 45 que é a soma de 3,5,6,9 e 13
