@@ -18,24 +18,23 @@ https://dart.dev/get-dart
 
 ### ⚙️ Configuração do Ambente
 
-1. Clone este repositório.
+Clone este repositório.
 
 ```
 git clone https://github.com/AdrianoRAV/soma_divisivel_3_5.git
 ```
-
-2. Navegue até o diretório do projeto.
+Navegue até o diretório do projeto.
 
 cd soma_divisivel_3_5
 
 ## 🔧 Como Rodar
 
-4. Abra um terminal no diretório do projeto.
-5. Execute o seguinte comando para obter as dependências do projeto.
+Abra um terminal no diretório do projeto.
+Execute o seguinte comando para obter as dependências do projeto.
 
 pub get
 
-6. Execute o aplicativo Dart a partir da linha de comando.
+Execute o aplicativo Dart a partir da linha de comando.
 
 soma_divisivel_3_5.dart
 
