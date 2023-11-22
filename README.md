@@ -104,7 +104,9 @@ função que receba um número inteiro positivo e retorne o somatório de todos 
 ### 📋 Pré-requisitos
 Certifique-se de ter o Dart SDK instalado em seu sistema. Você pode baixá-lo em [dart.dev](https://dart.dev/get-dart).
 
-## Configuração do Ambiente
+
+## ⚙️ Configuração do Ambente
+
 1. Clone este repositório.
   
 git clone https://github.com/AdrianoRAV/soma_divisivel_3_5.git
@@ -113,7 +115,7 @@ git clone https://github.com/AdrianoRAV/soma_divisivel_3_5.git
 
 cd soma_divisivel_3_5
 
-## Como Rodar
+## 🔧 Como Rodar
 
 4. Abra um terminal no diretório do projeto.
 5. Execute o seguinte comando para obter as dependências do projeto.
