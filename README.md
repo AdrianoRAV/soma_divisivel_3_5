@@ -41,7 +41,6 @@ soma_divisivel_3_5.dart
 
 * [Dart](https://dart.dev/guides) - Linguagem de programação usada
 
-
 ## ✒️ Autores
 
 * **Adriano Rodrigues** - *Trabalho Inicial* - [Adriano](https://github.com/AdrianoRAV)
