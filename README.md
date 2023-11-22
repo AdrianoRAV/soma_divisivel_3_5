@@ -1,8 +1,4 @@
 
-
-Settings
-
-Hi! Here some our recommendations to get the best out of BLACKBOX:
 # Título do projeto
 
 Um parágrafo da descrição do projeto vai aqui
@@ -100,13 +96,12 @@ Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](h
 * etc.
 
 
----
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
+
 
 # soma_divisivel_3_5
 função que receba um número inteiro positivo e retorne o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.
 
-## Pré-requisitos
+### 📋 Pré-requisitos
 Certifique-se de ter o Dart SDK instalado em seu sistema. Você pode baixá-lo em [dart.dev](https://dart.dev/get-dart).
 
 ## Configuração do Ambiente
