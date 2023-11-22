@@ -11,12 +11,21 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 
 ### 📋 Pré-requisitos
 
-Certifique-se de ter o Dart SDK instalado em seu sistema. Você pode baixá-lo em [dart.dev](https://dart.dev/get-dart).
+Certifique-se de ter o Dart SDK instalado em seu sistema. Você pode baixá-lo em dart.dev.
 
-De que coisas você precisa para instalar o software e como instalá-lo?
+
 
 ```
-Dar exemplos https://dart.dev/get-dart
+https://dart.dev/get-dart
+```
+## ⚙️ Configuração do Ambente
+
+1. Clone este repositório.
+  
+
+```
+git clone https://github.com/AdrianoRAV/soma_divisivel_3_5.git
+
 ```
 
 ### 🔧 Instalação
