@@ -3,20 +3,6 @@
 Settings
 
 Hi! Here some our recommendations to get the best out of BLACKBOX:
-
-Be as clear as possible
-
-End the question in what language you want the answer to be, e.g: ‘connect to mongodb in python
-or you can just
-Go to Blackbox
-Here are some suggestion (choose one):
-Write a function that reads data from a json file
-How to delete docs from mongodb in phyton
-Connect to mongodb in nodejs
-Ask any coding question
-send
-refresh
-Blackbox AI Chat is in beta and Blackbox is not liable for the content generated. By using Blackbox, you acknowledge that you agree to agree to Blackbox's Terms and Privacy Policy
 # Título do projeto
 
 Um parágrafo da descrição do projeto vai aqui
