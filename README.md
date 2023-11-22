@@ -18,24 +18,15 @@ Certifique-se de ter o Dart SDK instalado em seu sistema. Você pode baixá-lo e
 ```
 https://dart.dev/get-dart
 ```
-## ⚙️ Configuração do Ambente
+
+### ⚙️ Configuração do Ambente
+
+
 
 1. Clone este repositório.
-  
 
 ```
 git clone https://github.com/AdrianoRAV/soma_divisivel_3_5.git
-
-```
-
-### 🔧 Instalação
-
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-Diga como essa etapa será:
-
-```
-Dar exemplos
 ```
 
 E repita:
